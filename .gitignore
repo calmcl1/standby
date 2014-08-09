@@ -1,0 +1,5 @@
+*.cbp
+*.layout
+*.out
+*.old
+obj/*
